@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonForCompleteBeginners.iml" filepath="$PROJECT_DIR$/.idea/PythonForCompleteBeginners.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonForFinance/.idea/PythonForFinance.iml" filepath="$PROJECT_DIR$/../PythonForFinance/.idea/PythonForFinance.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/USMEDS/.idea/USMEDS.iml" filepath="$USER_HOME$/PycharmProjects/USMEDS/.idea/USMEDS.iml" />
     </modules>
   </component>
 </project>
